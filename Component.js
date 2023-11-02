@@ -1,0 +1,1 @@
+sap.ui.define(["sap/suite/ui/generic/template/lib/AppComponent"],function(e){return e.extend("co.esenttia.sap.s4hana.zsdmansalesquot.Component",{metadata:{manifest:"json"}})});

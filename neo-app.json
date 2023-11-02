@@ -1,0 +1,103 @@
+{
+  "welcomeFile": "/test/flpSandbox.html",
+  "routes": [
+    {
+      "path": "/sap/opu/odata",
+      "target": {
+        "type": "destination",
+        "name": "S4D",
+        "entryPath": "/sap/opu/odata"
+      },
+      "description": "Essentia Fiori DEV."
+    },
+    {
+      "path": "/resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "preferLocal": true,
+        "entryPath": "/resources",
+        "version": "1.71.28"
+      },
+      "description": "SAPUI5 Resources"
+    },
+    {
+      "path": "/sap/ui5/1/resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "preferLocal": true,
+        "version": "1.71.28"
+      },
+      "description": "SAPUI5 dist layer resources"
+    },
+    {
+      "path": "/resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/resources",
+        "version": "1.71.28"
+      },
+      "description": "SAPUI5 Resources"
+    },
+    {
+      "path": "/test-resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/test-resources",
+        "version": "1.71.28"
+      },
+      "description": "SAPUI5 Test Resources"
+    },
+    {
+      "path": "/sap/bc/lrep",
+      "target": {
+        "type": "destination",
+        "name": "S4D_HANA_250",
+        "entryPath": "/sap/bc/lrep"
+      },
+      "description": "S4D_HANA_250"
+    },
+    {
+      "path": "/test-resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/test-resources",
+        "version": "1.71.28"
+      },
+      "description": "SAPUI5 Test Resources"
+    },
+    {
+      "path": "/",
+      "target": {
+        "type": "application",
+        "name": "flpsandbox",
+        "preferLocal": true
+      },
+      "description": "Subscribed Fiori LaunchPad"
+    },
+    {
+      "path": "/sap/bc/ui5_ui5",
+      "target": {
+        "type": "destination",
+        "name": "S4D",
+        "entryPath": "/sap/bc/ui5_ui5"
+      },
+      "description": "Essentia Fiori DEV."
+    },
+    {
+      "path": "/resources/co/esenttia/sap/s4hana/zsdmansalesquot/Component",
+      "target": {
+        "type": "destination",
+        "name": "S4D",
+        "entryPath": "/sap/bc/lrep/flex/data/~VfV7vmbX2zfULgLoGgmBQ8YaD70=~/co.esenttia.sap.s4hana.zsdmansalesquot.Component?version=1.0.0",
+        "preferLocal": true
+      },
+      "description": "co/esenttia/sap/s4hana/zsdmansalesquot/Component Reuse Library"
+    }
+  ],
+  "sendWelcomeFileRedirect": true
+}

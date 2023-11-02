@@ -1,0 +1,115 @@
+{
+    "resources": [
+        {
+            "name": "ext/controller/ObjectPageExt.controller.js"
+        },
+        {
+            "name": "i18n/ListReport/ZCDS_SDOFFER/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "i18n/i18n_es.properties",
+            "raw": "i18n/i18n.properties",
+            "locale": "_es"
+        },
+        {
+            "name": "ext/controller/ListReportExt.controller.js"
+        },
+        {
+            "name": "localService/mockserver.js"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "changes/changes-bundle.json"
+        },
+        {
+            "name": "manifest-bundle.zip"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "Component-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "ext/controller/ListReportExt-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "localService/mockserver-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "ext/controller/ObjectPageExt-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "../../../../../sap-ui-version.json"
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "di.code-validation.core_issues.json"
+        },
+        {
+            "name": "ext/view/fragments/sendToCustomer.fragment.xml"
+        },
+        {
+            "name": "ext/view/fragments/pdfViewColumns.fragment.xml"
+        },
+        {
+            "name": "ext/view/fragments/pdfViewCells.fragment.xml"
+        },
+        {
+            "name": "ext/view/fragments/newOrder.fragment.xml"
+        },
+        {
+            "name": "ext/view/fragments/messages.fragment.xml"
+        },
+        {
+            "name": "ext/view/fragments/longTexts.fragment.xml"
+        },
+        {
+            "name": "ext/view/fragments/PDF.fragment.xml"
+        },
+        {
+            "name": "localService/metadata.xml"
+        },
+        {
+            "name": "localService/ZSB_SDOFFER_VAN.xml"
+        },
+        {
+            "name": "changes/id_1652038624341_257_propertyChange.change"
+        },
+        {
+            "name": "changes/id_1651521445261_186_propertyChange.change"
+        },
+        {
+            "name": "changes/id_1651247132167_188_propertyChange.change"
+        },
+        {
+            "name": "changes/id_1651194549505_186_moveControls.change"
+        },
+        {
+            "name": "changes/id_1651194489717_186_propertyChange.change"
+        },
+        {
+            "name": "changes/id_1651074668961_190_propertyChange.change"
+        },
+        {
+            "name": "annotations/annotations.xml"
+        }
+    ]
+}
